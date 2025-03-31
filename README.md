@@ -1,9 +1,11 @@
 # Introduction
 
-This centralized application will allow us to capture, filter and search a comprehensive list of innovative project Ideas.  It will help employees research and verify unique ideas before creating new submissions to alleviate duplicate effort.  
+This application will allow Developers to have a safe place to live.  Instead of searching and hiring talent for projects, they can link the work for developers to find and complete.  This allows the work to move faster without overhead and without having to worry about hiring and carrying for develoeprs.  
+
+The application will allow the developer to capture, filter and search a comprehensive list of innovative project Ideas.  It will also help research and verify unique ideas before creating new submissions to alleviate duplicate effort.  
 
 #Benefits
-The Innovation Station will provide value to several different user journeys and will allow us to cross utilize the same list across different teams.
+This safe haven for developers will provide security and releave the over worked developer by sharing the contracts with the team.  This Hive mentality keeps the code to a standard and allows full coverage, no downtime, faster development paths and an environment that encourages growth and stability.  It will aslo add value to several different user journeys and will allow us to cross utilize the same list across different teams.
 
 - Our Project Managers will be able to use a dashboard to view details, progress and possibly add sponsorships to active projects.  
 - Our Sales Managers will be able to cross reference current client interests which may allow them to fund partnership projects.  
