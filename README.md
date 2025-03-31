@@ -4,7 +4,9 @@ This application will allow Developers to have a safe place to live. Instead of 
 
 The application will allow the developer to capture, filter and search a comprehensive list of innovative project Ideas. It will also help research and verify unique ideas before creating new submissions to alleviate duplicate effort.
 
-#Benefits This safe haven for developers will provide security and relieve the over worked developer by sharing the contracts with the team. This Hive mentality keeps the code to a standard and allows full coverage, no downtime, faster development paths and an environment that encourages growth and stability. It will also add value to several different user journeys and will allow us to cross utilize the same list across different teams.
+# Benefits 
+
+This safe haven for developers will provide security and relieve the over worked developer by sharing the contracts with the team. This Hive mentality keeps the code to a standard and allows full coverage, no downtime, faster development paths and an environment that encourages growth and stability. It will also add value to several different user journeys and will allow us to cross utilize the same list across different teams.
 
 - Our Project Managers will be able to use a dashboard to view details, progress and possibly add sponsorships to active projects.
 - Our Sales Managers will be able to cross reference current client interests which may allow them to fund partnership projects.
