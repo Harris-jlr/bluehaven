@@ -6,10 +6,10 @@ The application will allow the developer to capture, filter and search a compreh
 
 #Benefits This safe haven for developers will provide security and relieve the over worked developer by sharing the contracts with the team. This Hive mentality keeps the code to a standard and allows full coverage, no downtime, faster development paths and an environment that encourages growth and stability. It will also add value to several different user journeys and will allow us to cross utilize the same list across different teams.
 
-Our Project Managers will be able to use a dashboard to view details, progress and possibly add sponsorships to active projects.
-Our Sales Managers will be able to cross reference current client interests which may allow them to fund partnership projects.
-Our Hardline Managers will have access to see contributions made by their employees that can be used for utilization and end of year reporting.
-Our Employees will be able to use the tool to submit new ideas and also search for active internal projects that they can provide value while in between client engagements. Once they gain access to a project and complete an onboarding session, they will be able to pick up work from that project.
+- Our Project Managers will be able to use a dashboard to view details, progress and possibly add sponsorships to active projects.
+- Our Sales Managers will be able to cross reference current client interests which may allow them to fund partnership projects.
+- Our Hardline Managers will have access to see contributions made by their employees that can be used for utilization and end of year reporting.
+- Our Employees will be able to use the tool to submit new ideas and also search for active internal projects that they can provide value while in between client engagements. Once they gain access to a project and complete an onboarding session, they will be able to pick up work from that project.
 
 # Vue 3 + Vite
 
